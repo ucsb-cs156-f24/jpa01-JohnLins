@@ -1,7 +1,7 @@
 # jpa01-JohnLins
 
 
-Deployed at: http://jpa01-johnlins.dokku-11.cs.ucsb.edu/
+Deployed at: https://jpa01-johnlins.dokku-11.cs.ucsb.edu/
 
 
 # About this repo
